@@ -1,8 +1,8 @@
 ### Prazer, me chamo Matheus 👋
 <div align="center">
   <a href="https://github.com/matheusdsilva01">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheusdsilva01&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdsilva01&layout=compact&langs_count=7&theme=bear"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=matheusdsilva01&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdsilva01&layout=compact&langs_count=7&theme=bear"/>
  </div>
   <div>
   <img align="right" alt="Matheus-pic" height="150" style="border-radius:50%;" src="https://media.giphy.com/media/162WGx0aMNirOfwYQj/giphy.gif">
