@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdsilva01&layout=compact&langs_count=7&theme=bear"/>
  </div>
   <div>
-  <img align="right" alt="Matheus-pic" height="100" style="border-radius:50%;" src="https://media.giphy.com/media/162WGx0aMNirOfwYQj/giphy.gif">
+  <img align="right" alt="Matheus-pic" height="150" style="border-radius:50%;" src="https://media.giphy.com/media/162WGx0aMNirOfwYQj/giphy.gif">
   </div>
   
   ##
