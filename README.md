@@ -1,9 +1,9 @@
 ### Prazer, me chamo Matheus 👋
-
+<!--
 **Matheusdsilva01/matheusdsilva01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-<!--
+
 - 🔭 Estou trabalhando como Frond End ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <a href="https://github.com/matheusdsilva01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusdsilva01&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdsilva01&layout=compact&langs_count=7&theme=default"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusdsilva01&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdsilva01&layout=compact&langs_count=7&theme=bear"/>
   <img align="right" alt="Matheus-pic" height="100" style="border-radius:50%;" src="https://media.giphy.com/media/162WGx0aMNirOfwYQj/giphy.gif">
  </div>
   
