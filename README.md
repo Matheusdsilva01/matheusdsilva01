@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/matheusdsilva01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusdsilva01&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdsilva01&layout=compact&langs_count=7&theme=default"/>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50%;" src="https://media.giphy.com/media/162WGx0aMNirOfwYQj/giphy.gif">
+  <img align="right" alt="Matheus-pic" height="100" style="border-radius:50%;" src="https://media.giphy.com/media/162WGx0aMNirOfwYQj/giphy.gif">
  </div>
   
   ##
