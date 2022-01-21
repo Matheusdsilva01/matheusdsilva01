@@ -16,7 +16,7 @@
   <img align="center" alt="Spring-boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Mysql" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <div>
-  <img align="right" alt="Matheus-pic" height="150" style="border-radius:50px; margin-top: 50px;border-radius: 10%;padding-left:0;" src="https://media.giphy.com/media/162WGx0aMNirOfwYQj/giphy.gif">
+  <img align="right" alt="Matheus-pic" height="150" src="https://media.giphy.com/media/162WGx0aMNirOfwYQj/giphy.gif">
   </div>
   
   ##
