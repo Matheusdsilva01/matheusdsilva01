@@ -1,4 +1,4 @@
-### Hello World! Me chamo Matheus, sou um dev Full Stack em formação 😁🤖
+### Hello World! Me chamo Matheus, sou um dev Full Stack😁🤖
 
 <div class="container" align="center" style="margin-bottom: 20px;">
   <a href="https://github.com/matheusdsilva01">
