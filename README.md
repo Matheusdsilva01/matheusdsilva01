@@ -1,4 +1,4 @@
-### Hello World! Me chamo Matheus, sou um dev Front-end | Reacj.Js😁🤖
+### Hello World! Me chamo Matheus, sou um Desenvolvedor Front-end Jr. | ReactJs 😁🤖
 
 <div class="container" align="center" style="margin-bottom: 20px;">
   <a href="https://github.com/matheusdsilva01">
