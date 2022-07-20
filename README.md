@@ -1,4 +1,4 @@
-<p align="left">Olá 👋! Meu nome é Matheus e sou desenvolvedor Front end júnior.</p>
+<p align="left">Hi 👋! My name is Matheus and I'm a Front end developer junior.</p>
 
 ###
 
@@ -55,5 +55,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img href="https://raw.githubusercontent.com/matheusdsilva01/matheusdsilva01/blob/output/snake.svg" alt="Snake animation" />
 
 ###
