@@ -1,4 +1,4 @@
-<p align="left">Hi 👋! My name is Matheus and I'm a Front end developer junior.</p>
+<p align="left">Olá 👋! Meu nome é Matheus e sou um desenvolvedor Front end junior. 👨🏻‍💻</p>
 
 ###
 
