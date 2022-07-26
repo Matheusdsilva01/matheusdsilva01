@@ -57,3 +57,9 @@
 </div>
 
 ###
+
+<br clear="both">
+
+![Snake animation](https://github.com/matheusdsilva01/matheusdsilva01/blob/output/snake.svg)
+
+###
