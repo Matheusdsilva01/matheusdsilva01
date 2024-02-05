@@ -31,7 +31,7 @@
 
 ###
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/59fca116509f39a35bf45bc35f3390fe57be1f594dc563b46d4536363368db9c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31363257477830614d4e69724f667759516a2f67697068792e676966"  />
+<img align="right" height="150px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnBiZWNoMzh1N3d0MTR0MTBuYmRjNW9jbGI5cG44bGg2cW5ueWhrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ww2NXkTokc3PnQ3XMK/giphy.gif"  />
 
 ###
 
